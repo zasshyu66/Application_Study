@@ -1,0 +1,10 @@
+C:\Users\zassh\source\repos\AsyncTestForm\AsyncTestForm\obj\Debug\AsyncTestForm.csprojAssemblyReference.cache
+C:\Users\zassh\source\repos\AsyncTestForm\AsyncTestForm\obj\Debug\AsyncTestForm.Form1.resources
+C:\Users\zassh\source\repos\AsyncTestForm\AsyncTestForm\obj\Debug\AsyncTestForm.Properties.Resources.resources
+C:\Users\zassh\source\repos\AsyncTestForm\AsyncTestForm\obj\Debug\AsyncTestForm.csproj.GenerateResource.cache
+C:\Users\zassh\source\repos\AsyncTestForm\AsyncTestForm\obj\Debug\AsyncTestForm.csproj.CoreCompileInputs.cache
+C:\Users\zassh\source\repos\AsyncTestForm\AsyncTestForm\bin\Debug\AsyncTestForm.exe.config
+C:\Users\zassh\source\repos\AsyncTestForm\AsyncTestForm\bin\Debug\AsyncTestForm.exe
+C:\Users\zassh\source\repos\AsyncTestForm\AsyncTestForm\bin\Debug\AsyncTestForm.pdb
+C:\Users\zassh\source\repos\AsyncTestForm\AsyncTestForm\obj\Debug\AsyncTestForm.exe
+C:\Users\zassh\source\repos\AsyncTestForm\AsyncTestForm\obj\Debug\AsyncTestForm.pdb
